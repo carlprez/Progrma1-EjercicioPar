@@ -1,0 +1,16 @@
+/home/carlos/Documentos/Universidad/Programacion II/proyecto/bin/Debug/net5.0/proyecto
+/home/carlos/Documentos/Universidad/Programacion II/proyecto/bin/Debug/net5.0/proyecto.deps.json
+/home/carlos/Documentos/Universidad/Programacion II/proyecto/bin/Debug/net5.0/proyecto.runtimeconfig.json
+/home/carlos/Documentos/Universidad/Programacion II/proyecto/bin/Debug/net5.0/proyecto.runtimeconfig.dev.json
+/home/carlos/Documentos/Universidad/Programacion II/proyecto/bin/Debug/net5.0/proyecto.dll
+/home/carlos/Documentos/Universidad/Programacion II/proyecto/bin/Debug/net5.0/ref/proyecto.dll
+/home/carlos/Documentos/Universidad/Programacion II/proyecto/bin/Debug/net5.0/proyecto.pdb
+/home/carlos/Documentos/Universidad/Programacion II/proyecto/obj/Debug/net5.0/proyecto.csprojAssemblyReference.cache
+/home/carlos/Documentos/Universidad/Programacion II/proyecto/obj/Debug/net5.0/proyecto.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/Documentos/Universidad/Programacion II/proyecto/obj/Debug/net5.0/proyecto.AssemblyInfoInputs.cache
+/home/carlos/Documentos/Universidad/Programacion II/proyecto/obj/Debug/net5.0/proyecto.AssemblyInfo.cs
+/home/carlos/Documentos/Universidad/Programacion II/proyecto/obj/Debug/net5.0/proyecto.csproj.CoreCompileInputs.cache
+/home/carlos/Documentos/Universidad/Programacion II/proyecto/obj/Debug/net5.0/proyecto.dll
+/home/carlos/Documentos/Universidad/Programacion II/proyecto/obj/Debug/net5.0/ref/proyecto.dll
+/home/carlos/Documentos/Universidad/Programacion II/proyecto/obj/Debug/net5.0/proyecto.pdb
+/home/carlos/Documentos/Universidad/Programacion II/proyecto/obj/Debug/net5.0/proyecto.genruntimeconfig.cache
